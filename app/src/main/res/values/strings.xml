@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gemini Image Identifier</string>
+    <string name="image_recognition_gemini">Image Recognition Gemini</string>
+</resources>
