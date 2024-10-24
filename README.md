@@ -2,6 +2,8 @@
 
 Capture or select an image, and let powerful AI technology instantly identify what's in it. Powered by Gemini SDK,
 
+
+
 <img src="screenshots/demo.gif" width="250" hspace="10"><img src="screenshots/pic1.jpeg" width="250" hspace="10"><img src="screenshots/pic2.jpeg" width="250" hspace="10">
 
 
